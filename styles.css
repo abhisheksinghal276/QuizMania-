@@ -1,22 +1,13 @@
 html {
   height: 100%;
-  background: radial-gradient(circle, rgb(101, 98, 98), black);
-}
-
-#heading {
-  font-size: 100px;
-  text-align: center;
-  font-weight: 100;
-  font-family: cursive, sans-serif;
-  color: white;
-
+  background: radial-gradient(circle, #fff, #ccc);
 }
 
 #container {
   height: 400px;
   width: 550px;
   background-color: #9dd2ea;
-  margin: 80px auto;
+  margin: 100px auto;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0px 4px 0px 0px #009de4;
@@ -65,7 +56,6 @@ html {
   font-size: 100px;
   text-align: center;
   font-family: cursive, sans-serif;
-  color: black;
 }
 
 #instruction {
